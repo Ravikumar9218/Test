@@ -1,0 +1,1 @@
+Get-service | select -first 5
